@@ -1,5 +1,3 @@
-# Welcome to my GitHub profile
-
 I'm Pearl, a passionate programmer with a strong interest in data analysis and building applications that solve real-world problems. Below are some of my favorite projects that showcase my skills and experience.
 
 ---
@@ -24,7 +22,4 @@ I'm Pearl, a passionate programmer with a strong interest in data analysis and b
 ## 📫 Contact Me
 
 - [Email](pearldemello@protonmail.com)
-
----
-
-## 📄 [Download my Resume](./resume.docx)
+- [Download my Resume](./resume.docx)
