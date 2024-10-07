@@ -1,16 +1,30 @@
-## Hi there 👋
+# Welcome to my GitHub profile
 
-<!--
-**earl-git/earl-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pearl, a passionate programmer with a strong interest in data analysis and building applications that solve real-world problems. Below are some of my favorite projects that showcase my skills and experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Pinned Projects
+
+- **[Consumer-Insight-Data-Analytics](https://github.com/earl-git/Consumer-Insight-Data-Analytics)**: Analyzing Amazon customer reviews to extract insights for Beats by Dre headphones.
+- **[Absenteeism Project](https://github.com/earl-git/Absenteeism_Project)**: Predicting employee absenteeism using machine learning.
+- **[Calculator-GUI-App](https://github.com/earl-git/Calculator-GUI-App)**: A simple triangle calculator built with Python and Tkinter.
+- **[Employee-Management](https://github.com/earl-git/Employee-Management)**: A Python-based employee management system with SQLite integration.
+
+---
+
+## 💻 Skills
+
+- **Languages**: Python, Java, SQL, C/C++
+- **Tools**: Git, Jupyter, Tkinter, SQLite, Tableau
+- **OS**: Linux, Windows
+
+---
+
+## 📫 Contact Me
+
+- [Email](pearldemello@protonmail.com)
+
+---
+
+## 📄 [Download my Resume](./resume.docx)
