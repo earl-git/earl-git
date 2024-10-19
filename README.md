@@ -13,7 +13,7 @@ I'm Pearl, a programmer with a strong interest in data analysis and building app
 
 ## 💻 Skills
 
-- **Languages**: Python, Java, SQL, C/C++
+- **Languages**: Python, Java, SQL, C/C++, Javascript
 - **Tools**: Git, Jupyter, Tkinter, SQLite, Tableau
 - **OS**: Linux, Windows
 
