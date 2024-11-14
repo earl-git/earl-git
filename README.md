@@ -14,10 +14,12 @@ I'm Pearl, a programmer with a strong interest in data analysis and building app
 
 ## 💻 Skills
 
-- **Languages**: Python, Java, SQL, C/C++, Javascript
-- **Tools**: Git, Jupyter, Tkinter, SQLite, Tableau
-- **OS**: Linux, Windows
-- **Cloud Computing**: AWS
+- Data Analysis Tools: Python, SQL, Excel, ETL, AWS
+- Visualization Tools: Tableau, Power BI
+- Databases: MySQL, SQLite, Amazon DynamoDB
+- Other: C/C++, Java, IT Security, MS Office, Git/Github, Docker, Kubernetes, Bash, Linux and Windows OS
+- Data Structures and Algorithms
+
 
 ---
 
