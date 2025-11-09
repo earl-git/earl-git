@@ -26,4 +26,3 @@ I'm Pearl, a programmer with a strong interest in data analysis and building app
 ## 📫 Contact Me
 
 - [Email](pearldemello@protonmail.com)
-- [Download my Resume](./resume.docx)
